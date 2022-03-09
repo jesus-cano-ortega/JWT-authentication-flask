@@ -1,7 +1,7 @@
 # <img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/assets/resources/img/face.png" width="45" alt="Personal Logo"> WebApp boilerplate with React JS and Flask API
 
 <p>
-  <a href="https://silver-zebra-yvuvil9a.ws-eu17.gitpod.io/"><img src="https://gitpod.io#https://github.com/4GeeksAcademy/react-flask-hello.git" />
+  <a href="https://silver-zebra-yvuvil9a.ws-eu17.gitpod.io/"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
   </a>
 </p>
 
